@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="users-cli-services" />
+        <module name="users-cli-commands" />
+        <module name="users-cli-app" />
+        <module name="users-cli-models" />
+        <module name="users-cli-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="users-cli-database" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
