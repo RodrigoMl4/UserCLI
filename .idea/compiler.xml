@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="users-cli-services" />
-        <module name="users-cli-commands" />
         <module name="users-cli-app" />
-        <module name="users-cli-models" />
-        <module name="users-cli-utils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="users-cli-controllers" target="19" />
       <module name="users-cli-database" target="19" />
+      <module name="users-cli-entities" target="19" />
+      <module name="users-cli-persistence" target="19" />
+      <module name="users-cli-tools" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

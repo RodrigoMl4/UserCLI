@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/users-cli-commands/pom.xml" />
         <option value="$PROJECT_DIR$/users-cli-database/pom.xml" />
         <option value="$PROJECT_DIR$/users-cli-services/pom.xml" />
+        <option value="$PROJECT_DIR$/users-cli-app/users-cli-controllers/pom.xml" />
+        <option value="$PROJECT_DIR$/users-cli-app/users-cli-entities/pom.xml" />
+        <option value="$PROJECT_DIR$/users-cli-app/users-cli-persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/users-cli-app/users-cli-tools/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

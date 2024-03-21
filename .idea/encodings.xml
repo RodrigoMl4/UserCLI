@@ -3,15 +3,15 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/users-cli-app/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/users-cli-app/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-commands/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-commands/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-controllers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-controllers/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/users-cli-database/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/users-cli-database/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-models/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-models/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-services/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-services/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-utils/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/users-cli-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-entities/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-entities/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users-cli-tools/src/main/resources" charset="UTF-8" />
   </component>
 </project>
